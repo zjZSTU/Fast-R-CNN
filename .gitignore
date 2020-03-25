@@ -2,3 +2,5 @@
 py/.idea
 
 py/data
+
+py/utils/__pycache__/
