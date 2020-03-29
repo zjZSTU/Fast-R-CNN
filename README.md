@@ -18,6 +18,7 @@
 - [安装](#安装)
 - [用法](#用法)
 - [主要维护人员](#主要维护人员)
+- [致谢](#致谢)
 - [参与贡献方式](#参与贡献方式)
 - [许可证](#许可证)
 
@@ -57,6 +58,21 @@ $ pip install mkdocs
 ## 主要维护人员
 
 * zhujian - *Initial work* - [zjZSTU](https://github.com/zjZSTU)
+
+## 致谢
+
+### 引用
+
+```
+@misc{girshick2015fast,
+    title={Fast R-CNN},
+    author={Ross Girshick},
+    year={2015},
+    eprint={1504.08083},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
 
 ## 参与贡献方式
 
