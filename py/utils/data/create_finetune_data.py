@@ -20,11 +20,11 @@ from utils.util import compute_ious
 
 
 # train
-# positive num: 66517
-# negatie num: 464340
+# positive num: 67139
+# negative num: 427068
 # val
-# positive num: 64712
-# negative num: 415134
+# positive num: 65337
+# negative num: 408609
 
 
 def parse_annotation_jpeg(annotation_path, jpeg_path, gs):
